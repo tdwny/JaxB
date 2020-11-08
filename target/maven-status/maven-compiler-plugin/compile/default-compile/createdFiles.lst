@@ -1,0 +1,8 @@
+com/origamisoftware/teach/advanced/stock/xml/Stock.class
+com/origamisoftware/teach/advanced/stock/database/StockDAO.class
+com/origamisoftware/teach/advanced/stock/database/DatabaseInitializationException.class
+com/origamisoftware/teach/advanced/stock/xml/XMLDomainObject.class
+com/origamisoftware/teach/advanced/stock/database/DatabaseConnectionException.class
+com/origamisoftware/teach/advanced/stock/database/DatabaseUtils.class
+com/origamisoftware/teach/advanced/stock/database/DatabasesAccessObject.class
+com/origamisoftware/teach/advanced/stock/database/DatabaseException.class
