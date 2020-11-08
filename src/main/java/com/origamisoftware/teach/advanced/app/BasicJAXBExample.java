@@ -13,6 +13,8 @@ import java.io.StringReader;
  */
 public class BasicJAXBExample {
 
+    //SecondBranch
+
     private static String xmlInstance ="<family>\n" +
             "    <father age=\"40\">Fred</father>\n" +
             "    <mother age=\"40\">Sally</mother>\n" +
